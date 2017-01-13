@@ -1,0 +1,42 @@
+[33mtag v1.0[m
+Tagger: guimk <guilherme.kopke.@fastconnect.com.br>
+Date:   Thu Jan 12 16:44:53 2017 -0200
+
+tag v1
+
+[33mcommit 3b70976bc3d86292b3a30888505e56459aafc387[m
+Author: guimk <guilherme.kopke.@fastconnect.com.br>
+Date:   Thu Jan 12 16:17:27 2017 -0200
+
+    bases do sistema criado
+
+[1mdiff --git a/changlog.txt.txt b/changlog.txt.txt[m
+[1mindex 9e19512..e69de29 100644[m
+[1m--- a/changlog.txt.txt[m
+[1m+++ b/changlog.txt.txt[m
+[36m@@ -1 +0,0 @@[m
+[31m-novas funcionalidades[m
+\ No newline at end of file[m
+[1mdiff --git a/novo.php.txt b/funcoes.php.txt[m
+[1msimilarity index 100%[m
+[1mrename from novo.php.txt[m
+[1mrename to funcoes.php.txt[m
+[1mdiff --git a/index.php.txt b/index.php.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/readme.txt.txt b/readme.txt.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 3f52c13..0000000[m
+[1m--- a/readme.txt.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1,9 +0,0 @@[m
+[31m- [m
+[31m-[m
+[31m-outra linha[m
+[31m-[m
+[31m-terceira linha[m
+[31m-[m
+[31m-quarta linha[m
+[31m-[m
+[31m-quinta linha[m
+\ No newline at end of file[m
