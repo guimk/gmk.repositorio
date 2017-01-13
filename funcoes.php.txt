@@ -3,3 +3,5 @@
 funcao 2
 funcao 3
 funcoes 5 
+
+linha 7 adicionada na master
