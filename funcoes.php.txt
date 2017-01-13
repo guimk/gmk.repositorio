@@ -2,3 +2,4 @@
 \\funcoes
 funcao 2
 funcao 3
+funcoes 5 
