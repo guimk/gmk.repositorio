@@ -3,3 +3,4 @@
 funcao 2
 funcao 3
 funcoes 5 
+funcao 6
