@@ -1,2 +1,4 @@
 <?php
 \\funcoes
+funcao 2
+funcao 3
